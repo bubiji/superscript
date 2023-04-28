@@ -46,7 +46,7 @@
     "moment": "^2.18.1",
     "mongo-tenant": "^1.0.4",
     "mongoose": "^4.9.3",
-    "natural": "^0.5.0",
+    "natural": "^0.6.3",
     "pegjs": "^0.10.0",
     "pluralize": "^4.0.0",
     "require-dir": "^0.3.1",
